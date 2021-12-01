@@ -20,6 +20,12 @@ class bulletTest {
         assertEquals(1, a.getX());
     }
 
+    @Test
+    @DisplayName("Get Y TEST")
+    void getY(){
+        assertEquals(2, a.getY());
+    }
+
     @AfterEach
     void tearDown() {
     }
