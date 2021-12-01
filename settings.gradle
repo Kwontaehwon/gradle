@@ -1,0 +1,4 @@
+rootProject.name = 'untitled1'
+include 'untitled1.add'
+include 'untitled1.g'
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bulletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T09:32:17" hostname="DESKTOP-R97S9AL" time="0.017">
+  <properties/>
+  <testcase name="Get X TEST" classname="bulletTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
