@@ -23,7 +23,7 @@ class bulletTest {
     @Test
     @DisplayName("Get Y TEST")
     void getY(){
-        assertEquals(2, a.getY());
+        assertEquals(3, a.getY());
     }
 
     @AfterEach
