@@ -21,9 +21,9 @@ class bulletTest {
     }
 
     @Test
-    @DisplayName("Get Y TEST")
+    @DisplayName("Get Test Failed")
     void getY(){
-        assertEquals(2, a.getY());
+        assertEquals(3, a.getY());
     }
 
     @AfterEach
